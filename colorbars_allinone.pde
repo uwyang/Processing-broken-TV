@@ -1,3 +1,4 @@
+// mouse click to run through all effects
 // @pjs preload must be used to preload the image so that it will be available when used in the sketch  
 
 /* @pjs preload="./ColorBars.gif"; */
